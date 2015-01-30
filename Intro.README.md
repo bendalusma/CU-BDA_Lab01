@@ -6,10 +6,11 @@ My name is Benjamin Dalusma and I hail from Port-au-Prince, Haiti. I am senior i
 
 At the end of my sophomore year, I decided that I wanted to explore more mathematics/statistics courses. This lead me to completely finish my introductory math/stats classes (Calculus 1 through 3, Linear Algebra, Computer Science, Probability Theory and Statistics). 
 
+
 This passion for mathematics and statistics guided my choice and now I am exploring more advanced options/topics in the field of probability, statistics and decision theory. I am particularly interested by decision models and I'm hoping that learning Bayesian Methods, I'll be able to narrow down my graduate school interests but also understand a different way of approaching a problem and how to analyze it.
 
 #### Data Analysis Topic of Interest
-My interests in data analysis are fairly broad. I will say however that intend on using the Bayesian methods in two main areas:
+My interests in data analysis are fairly broad. I will say however that I intend on using Bayesian methods from this class in two main areas:
 
 1. ***Decision theory problems*** (relevant to marketing, economics and business).
 2. ***Sports Statistics problems*** (ranking teams and predicting wins-loss records [Soccer](http://probabilityandlaw.blogspot.com/2013/08/the-problem-with-predicting-football.html), [more soccer](http://www.pinnaclesports.com/en/betting-articles/sport/bayesian-analysis-and-sports-betting) and [football](http://ccrg.rit.edu/~whelan/talks/whelan20101008.pdf)) 
